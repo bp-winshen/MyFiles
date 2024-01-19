@@ -1,0 +1,20 @@
+{
+    "termsAndConditions": [
+        {
+            "linkText": "App Text One",
+            "linkUrl": "https://appOne.com"
+        },
+        {
+            "linkText": "App Text Two",
+            "linkUrl": "https://appTwo.com"
+        },
+        {
+            "linkText": "App Text Three",
+            "linkUrl": "https://appThree.com"
+        }
+    ],
+    "brand": "ampm",
+    "disableSocialAuthentication": true,
+    "defaultCallingCode": "+61",
+    "defaultCallingRegion": "AU"
+}
